@@ -1,0 +1,205 @@
+FRU-0001, Apple, FRUIT, 113, 110, 8.80, 30, 11.44, 11, 12.75
+FRU-0002, Apricot, FRUIT, 168, 50, 7.30, 30, 9.49, 9, 10.39
+FRU-0003, Avocado, FRUIT, 50, 30, 7.00, 25, 8.75, 9, 9.52
+FRU-0004, Banana, FRUIT, 76, 30, 5.35, 20, 6.42, 6, 6.83
+FRU-0005, Bilberry, FRUIT, 91, 120, 4.70, 20, 5.64, 6, 5.96
+FRU-0006, Blackberry, FRUIT, 94, 80, 4.70, 20, 5.64, 6, 5.96
+FRU-0007, Blackcurrant, FRUIT, 12, 10, 5.00, 40, 7.00, 7, 7.49
+FRU-0008, Blueberry, FRUIT, 76, 70, 5.20, 5, 5.46, 5, 5.76
+FRU-0009, Boysenberry, FRUIT, 83, 60, 5.35, 25, 6.69, 7, 7.13
+FRU-0010, Currant, FRUIT, 49, 100, 5.55, 40, 7.77, 8, 8.37
+FRU-0011, Cherry, FRUIT, 47, 90, 6.70, 45, 9.72, 10, 10.66
+FRU-0012, Cherimoya, FRUIT, 43, 30, 6.15, 55, 9.53, 10, 10.44
+FRU-0013, Chico fruit, FRUIT, 1, 0, 7.10, 45, 10.30, 10, 11.36
+FRU-0014, Cloudberry, FRUIT, 98, 90, 4.70, 20, 5.64, 6, 5.96
+FRU-0015, Coconut, FRUIT, 5, 10, 8.70, 25, 10.88, 11, 12.06
+FRU-0016, Cranberry, FRUIT, 42, 10, 3.00, 45, 4.35, 4, 4.54
+FRU-0017, Cucumber, FRUIT, 67, 10, 3.90, 30, 5.07, 5, 5.33
+FRU-0018, Custard apple, FRUIT, 85, 80, 0.90, 40, 1.26, 1, 1.28
+FRU-0019, Damson, FRUIT, 22, 40, 1.55, 30, 2.02, 2, 2.06
+FRU-0020, Date, FRUIT, 36, 0, 8.15, 45, 11.82, 12, 13.21
+FRU-0021, Dragonfruit, FRUIT, 16, 20, 6.90, 50, 10.35, 10, 11.42
+FRU-0022, Durian, FRUIT, 25, 20, 2.15, 50, 3.22, 3, 3.33
+FRU-0023, Elderberry, FRUIT, 83, 10, 6.70, 15, 7.70, 8, 8.30
+FRU-0024, Feijoa, FRUIT, 27, 10, 8.15, 5, 8.56, 9, 9.29
+FRU-0025, Fig, FRUIT, 6, 10, 0.05, 10, 0.06, 0, 0.06
+FRU-0026, Goji berry, FRUIT, 63, 10, 8.25, 5, 8.66, 9, 9.41
+FRU-0027, Gooseberry, FRUIT, 85, 50, 3.70, 40, 5.18, 5, 5.45
+FRU-0028, Grape, FRUIT, 73, 130, 7.60, 55, 11.78, 12, 13.17
+FRU-0029, Raisin, FRUIT, 3, 10, 6.20, 25, 7.75, 8, 8.35
+FRU-0030, Grapefruit, FRUIT, 14, 30, 0.55, 10, 0.61, 1, 0.61
+FRU-0031, Guava, FRUIT, 56, 50, 6.75, 25, 8.44, 8, 9.15
+FRU-0032, Honeyberry, FRUIT, 89, 180, 6.95, 35, 9.38, 9, 10.26
+FRU-0033, Huckleberry, FRUIT, 51, 30, 9.50, 25, 11.88, 12, 13.29
+FRU-0034, Jabuticaba, FRUIT, 37, 80, 1.60, 0, 1.60, 2, 1.63
+FRU-0035, Jackfruit, FRUIT, 93, 20, 3.20, 20, 3.84, 4, 3.99
+FRU-0036, Jambul, FRUIT, 31, 20, 3.85, 55, 5.97, 6, 6.32
+FRU-0037, Jujube, FRUIT, 2, 10, 5.10, 35, 6.89, 7, 7.36
+FRU-0038, Juniper berry, FRUIT, 75, 40, 6.35, 20, 7.62, 8, 8.20
+FRU-0039, Kiwano, FRUIT, 8, 10, 1.30, 20, 1.56, 2, 1.58
+FRU-0040, Kiwifruit, FRUIT, 84, 130, 1.50, 0, 1.50, 2, 1.52
+FRU-0041, Kumquat, FRUIT, 17, 20, 6.25, 20, 7.50, 8, 8.06
+FRU-0042, Lemon, FRUIT, 87, 170, 6.85, 50, 10.27, 10, 11.33
+FRU-0043, Lime, FRUIT, 10, 20, 1.85, 15, 2.13, 2, 2.17
+FRU-0044, Loquat, FRUIT, 60, 100, 3.85, 35, 5.20, 5, 5.47
+FRU-0045, Longan, FRUIT, 97, 190, 2.10, 45, 3.05, 3, 3.14
+FRU-0046, Lychee, FRUIT, 65, 60, 4.75, 30, 6.18, 6, 6.56
+FRU-0047, Mango, FRUIT, 86, 160, 2.05, 10, 2.26, 2, 2.31
+FRU-0048, Mangosteen, FRUIT, 81, 150, 2.30, 50, 3.45, 3, 3.57
+FRU-0049, Marionberry, FRUIT, 7, 10, 0.90, 35, 1.22, 1, 1.23
+FRU-0050, Melon, FRUIT, 31, 20, 1.60, 15, 1.84, 2, 1.87
+FRU-0051, Cantaloupe, FRUIT, 61, 90, 9.65, 45, 13.99, 14, 15.95
+FRU-0052, Honeydew, FRUIT, 95, 100, 7.00, 15, 8.05, 8, 8.70
+FRU-0053, Watermelon, FRUIT, 4, 10, 4.80, 25, 6.00, 6, 6.36
+FRU-0054, Miracle fruit, FRUIT, 24, 40, 2.25, 10, 2.48, 2, 2.54
+FRU-0055, Mulberry, FRUIT, 62, 90, 0.95, 5, 1.00, 1, 1.01
+FRU-0056, Nectarine, FRUIT, 68, 60, 4.65, 10, 5.12, 5, 5.38
+FRU-0057, Nance, FRUIT, 18, 10, 4.90, 0, 4.90, 5, 5.14
+FRU-0058, Olive, FRUIT, 54, 110, 0.45, 40, 0.63, 1, 0.63
+FRU-0059, Orange, FRUIT, 55, 90, 5.40, 20, 6.48, 6, 6.90
+FRU-0060, Blood orange, FRUIT, 6, 20, 0.75, 40, 1.05, 1, 1.06
+FRU-0061, Clementine, FRUIT, 90, 180, 3.50, 15, 4.02, 4, 4.19
+FRU-0062, Mandarine, FRUIT, 69, 20, 0.55, 25, 0.69, 1, 0.69
+FRU-0063, Tangerine, FRUIT, 60, 80, 2.25, 10, 2.48, 2, 2.54
+FRU-0064, Papaya, FRUIT, 20, 40, 8.95, 15, 10.29, 10, 11.35
+FRU-0065, Passionfruit, FRUIT, 18, 20, 6.85, 30, 8.91, 9, 9.70
+FRU-0066, Peach, FRUIT, 72, 120, 2.90, 40, 4.06, 4, 4.22
+FRU-0067, Pear, FRUIT, 85, 170, 2.80, 20, 3.36, 3, 3.47
+FRU-0068, Persimmon, FRUIT, 28, 60, 5.60, 20, 6.72, 7, 7.17
+FRU-0069, Physalis, FRUIT, 13, 20, 4.70, 0, 4.70, 5, 4.92
+FRU-0070, Plantain, FRUIT, 49, 50, 8.65, 45, 12.54, 13, 14.12
+FRU-0071, Plum, FRUIT, 38, 50, 8.15, 50, 12.23, 12, 13.72
+FRU-0072, Prune, FRUIT, 22, 40, 1.05, 35, 1.42, 1, 1.44
+FRU-0073, Pineapple, FRUIT, 92, 160, 5.25, 45, 7.61, 8, 8.19
+FRU-0074, Plumcot, FRUIT, 51, 80, 7.20, 5, 7.56, 8, 8.13
+FRU-0075, Pomegranate, FRUIT, 24, 40, 1.65, 15, 1.90, 2, 1.93
+FRU-0076, Pomelo, FRUIT, 26, 20, 9.30, 50, 13.95, 14, 15.90
+FRU-0077, Purple mangosteen, FRUIT, 53, 80, 4.30, 10, 4.73, 5, 4.95
+FRU-0078, Quince, FRUIT, 33, 20, 1.65, 20, 1.98, 2, 2.02
+FRU-0079, Raspberry, FRUIT, 5, 10, 2.00, 50, 3.00, 3, 3.09
+FRU-0080, Salmonberry, FRUIT, 58, 20, 8.95, 5, 9.40, 9, 10.28
+FRU-0081, Rambutan, FRUIT, 39, 40, 0.20, 20, 0.24, 0, 0.24
+FRU-0082, Redcurrant, FRUIT, 54, 10, 0.55, 5, 0.58, 1, 0.58
+FRU-0083, Salal berry, FRUIT, 93, 180, 1.10, 30, 1.43, 1, 1.45
+FRU-0084, Salak, FRUIT, 25, 50, 6.95, 25, 8.69, 9, 9.44
+FRU-0085, Satsuma, FRUIT, 90, 120, 3.05, 50, 4.57, 5, 4.78
+FRU-0086, Soursop, FRUIT, 63, 70, 8.30, 25, 10.38, 10, 11.45
+FRU-0087, Star fruit, FRUIT, 91, 30, 8.05, 35, 10.87, 11, 12.05
+FRU-0088, Solanum quitoense, FRUIT, 52, 70, 2.65, 20, 3.18, 3, 3.28
+FRU-0089, Strawberry, FRUIT, 68, 40, 9.00, 45, 13.05, 13, 14.75
+FRU-0090, Tamarillo, FRUIT, 11, 0, 3.75, 20, 4.50, 5, 4.70
+FRU-0091, Tamarind, FRUIT, 48, 70, 9.75, 5, 10.24, 10, 11.29
+FRU-0092, Ugli fruit, FRUIT, 52, 10, 9.45, 45, 13.70, 14, 15.58
+FRU-0093, Yuzu, FRUIT, 77, 140, 7.50, 35, 10.13, 10, 11.15
+VEG-0001, Artichoke, VEGETABLE, 74, 140, 5.35, 30, 6.96, 7, 7.44
+VEG-0002, Arugula, VEGETABLE, 12, 10, 0.65, 35, 0.88, 1, 0.89
+VEG-0003, Asparagus, VEGETABLE, 70, 40, 0.90, 20, 1.08, 1, 1.09
+VEG-0004, Green/Purple/White, VEGETABLE, 54, 20, 7.75, 20, 9.30, 9, 10.16
+VEG-0005, Avocado, VEGETABLE, 63, 80, 5.85, 40, 8.19, 8, 8.86
+VEG-0006, Bamboo Shoots, VEGETABLE, 9, 20, 1.55, 45, 2.25, 2, 2.30
+VEG-0007, Bean Sprouts, VEGETABLE, 1, 0, 7.20, 45, 10.44, 10, 11.53
+VEG-0008, Beet, VEGETABLE, 84, 150, 4.30, 15, 4.94, 5, 5.19
+VEG-0009, Belgian Endive, VEGETABLE, 58, 40, 7.20, 10, 7.92, 8, 8.55
+VEG-0010, Bell Pepper, VEGETABLE, 71, 70, 0.15, 40, 0.21, 0, 0.21
+VEG-0011, Bitter Melon/Bitter Gourd, VEGETABLE, 56, 70, 0.80, 20, 0.96, 1, 0.97
+VEG-0012, Bok Choy/Bok Choi/Pak Choy, VEGETABLE, 2, 0, 9.70, 45, 14.06, 14, 16.04
+VEG-0013, Broccoli, VEGETABLE, 35, 20, 0.55, 30, 0.72, 1, 0.72
+VEG-0014, Brussels Sprouts, VEGETABLE, 98, 10, 5.60, 30, 7.28, 7, 7.81
+VEG-0015, Burdock Root/Gobo, VEGETABLE, 57, 70, 1.85, 40, 2.59, 3, 2.66
+VEG-0016, Green Cabbage, VEGETABLE, 17, 10, 1.20, 45, 1.74, 2, 1.77
+VEG-0017, Red Cabbage, VEGETABLE, 0, 0, 0.60, 25, 0.75, 1, 0.76
+VEG-0018, Savoy Cabbage, VEGETABLE, 60, 20, 4.70, 20, 5.64, 6, 5.96
+VEG-0019, Calabash, VEGETABLE, 5, 10, 5.75, 50, 8.63, 9, 9.37
+VEG-0020, Capers, VEGETABLE, 63, 30, 7.40, 5, 7.77, 8, 8.37
+VEG-0021, Carrot, VEGETABLE, 76, 30, 9.60, 35, 12.96, 13, 14.64
+VEG-0022, Cassava/Yuca, VEGETABLE, 53, 80, 9.55, 20, 11.46, 11, 12.77
+VEG-0023, Cauliflower, VEGETABLE, 11, 10, 3.90, 50, 5.85, 6, 6.19
+VEG-0024, Celery, VEGETABLE, 82, 100, 5.00, 55, 7.75, 8, 8.35
+VEG-0025, Celery Root/Celeriac, VEGETABLE, 46, 30, 0.60, 50, 0.90, 1, 0.91
+VEG-0026, Celtuce, VEGETABLE, 11, 10, 9.55, 50, 14.33, 14, 16.38
+VEG-0027, Chayote, VEGETABLE, 24, 20, 3.75, 40, 5.25, 5, 5.53
+VEG-0028, Chinese Broccoli/Kai-lan, VEGETABLE, 62, 90, 1.90, 10, 2.09, 2, 2.13
+VEG-0029, Corn/Maize, VEGETABLE, 3, 0, 2.05, 40, 2.87, 3, 2.95
+VEG-0030, English Cucumber, VEGETABLE, 45, 10, 2.10, 55, 3.26, 3, 3.36
+VEG-0031, Gherkin, VEGETABLE, 86, 10, 3.65, 45, 5.29, 5, 5.57
+VEG-0032, Pickling Cucumbers, VEGETABLE, 91, 90, 0.80, 0, 0.80, 1, 0.81
+VEG-0033, Daikon Radish, VEGETABLE, 67, 50, 3.30, 5, 3.47, 3, 3.59
+VEG-0034, Edamame, VEGETABLE, 76, 80, 1.60, 45, 2.32, 2, 2.37
+VEG-0035, Eggplant/Aubergine, VEGETABLE, 85, 60, 5.15, 55, 7.98, 8, 8.62
+VEG-0036, Elephant Garlic, VEGETABLE, 80, 40, 4.90, 55, 7.60, 8, 8.17
+VEG-0037, Endive, VEGETABLE, 44, 30, 5.20, 5, 5.46, 5, 5.76
+VEG-0038, Fennel, VEGETABLE, 34, 60, 9.90, 50, 14.85, 15, 17.06
+VEG-0039, Fiddlehead, VEGETABLE, 48, 90, 3.00, 20, 3.60, 4, 3.73
+VEG-0040, Galangal, VEGETABLE, 46, 30, 7.35, 40, 10.29, 10, 11.35
+VEG-0041, Garlic, VEGETABLE, 2, 0, 8.95, 20, 10.74, 11, 11.89
+VEG-0042, Ginger, VEGETABLE, 92, 50, 8.95, 45, 12.98, 13, 14.66
+VEG-0043, Grape Leaves, VEGETABLE, 35, 10, 2.85, 30, 3.71, 4, 3.84
+VEG-0044, Wax Beans, VEGETABLE, 5, 10, 2.50, 0, 2.50, 3, 2.56
+VEG-0045, Amaranth Leaves/Chinese Spinach, VEGETABLE, 15, 10, 1.40, 40, 1.96, 2, 2.00
+VEG-0046, Beet Greens, VEGETABLE, 92, 70, 1.30, 40, 1.82, 2, 1.85
+VEG-0047, Collard Greens, VEGETABLE, 54, 110, 1.60, 5, 1.68, 2, 1.71
+VEG-0048, Dandelion Greens, VEGETABLE, 74, 140, 6.60, 15, 7.59, 8, 8.17
+VEG-0049, Kale, VEGETABLE, 64, 90, 7.90, 40, 11.06, 11, 12.28
+VEG-0050, Kohlrabi Greens, VEGETABLE, 5, 10, 7.25, 5, 7.61, 8, 8.19
+VEG-0051, Mustard Greens, VEGETABLE, 89, 70, 3.70, 5, 3.89, 4, 4.04
+VEG-0052, Rapini, VEGETABLE, 19, 30, 1.20, 55, 1.86, 2, 1.89
+VEG-0053, Spinach, VEGETABLE, 47, 90, 5.15, 20, 6.18, 6, 6.56
+VEG-0054, Swiss Chard, VEGETABLE, 92, 120, 5.80, 55, 8.99, 9, 9.80
+VEG-0055, Turnip Greens, VEGETABLE, 42, 40, 5.30, 5, 5.57, 6, 5.87
+VEG-0056, Hearts of Palm, VEGETABLE, 29, 30, 8.45, 10, 9.30, 9, 10.16
+VEG-0057, Horseradish, VEGETABLE, 48, 90, 5.65, 0, 5.65, 6, 5.97
+VEG-0058, Jerusalem Artichoke/Sunchokes, VEGETABLE, 9, 20, 9.15, 10, 10.07, 10, 11.08
+VEG-0059, Jícama, VEGETABLE, 46, 30, 6.95, 40, 9.73, 10, 10.68
+VEG-0060, Kale, VEGETABLE, 38, 30, 10.00, 10, 11.00, 11, 12.21
+VEG-0061, Kohlrabi, VEGETABLE, 66, 30, 9.75, 15, 11.21, 11, 12.47
+VEG-0062, Leeks, VEGETABLE, 46, 40, 3.50, 10, 3.85, 4, 4.00
+VEG-0063, Lemongrass, VEGETABLE, 4, 0, 7.55, 50, 11.33, 11, 12.61
+VEG-0064, Lotus Root, VEGETABLE, 86, 150, 8.05, 15, 9.26, 9, 10.11
+VEG-0065, Lotus Seed, VEGETABLE, 23, 50, 4.90, 15, 5.64, 6, 5.95
+VEG-0066, Napa Cabbage, VEGETABLE, 50, 90, 8.65, 15, 9.95, 10, 10.94
+VEG-0067, Nopales, VEGETABLE, 19, 20, 3.10, 25, 3.88, 4, 4.03
+VEG-0068, Okra, VEGETABLE, 13, 30, 4.70, 20, 5.64, 6, 5.96
+VEG-0069, Olive, VEGETABLE, 53, 60, 6.25, 45, 9.06, 9, 9.88
+VEG-0070, Onion, VEGETABLE, 63, 70, 2.30, 15, 2.64, 3, 2.72
+VEG-0071, Parsley, VEGETABLE, 56, 100, 7.80, 5, 8.19, 8, 8.86
+VEG-0072, Parsley Root, VEGETABLE, 52, 30, 7.85, 20, 9.42, 9, 10.31
+VEG-0073, Parsnip, VEGETABLE, 10, 10, 3.45, 30, 4.49, 4, 4.69
+VEG-0074, green peas, VEGETABLE, 74, 10, 0.65, 20, 0.78, 1, 0.79
+VEG-0075, snow peas, VEGETABLE, 77, 60, 7.85, 5, 8.24, 8, 8.92
+VEG-0076, sugar snap peas, VEGETABLE, 90, 180, 4.70, 20, 5.64, 6, 5.96
+VEG-0077, Adzuki Beans, VEGETABLE, 72, 20, 8.45, 55, 13.10, 13, 14.81
+VEG-0078, Anasazi Beans, VEGETABLE, 53, 50, 0.40, 55, 0.62, 1, 0.62
+VEG-0079, Black Beans/Black Turtle Beans, VEGETABLE, 92, 140, 2.85, 15, 3.28, 3, 3.39
+VEG-0080, Black-Eyed Peas, VEGETABLE, 98, 130, 5.20, 15, 5.98, 6, 6.34
+VEG-0081, Borlotti/Cranberry/Roman, VEGETABLE, 94, 140, 8.00, 20, 9.60, 10, 10.52
+VEG-0082, Butter Beans, VEGETABLE, 74, 70, 9.15, 15, 10.52, 11, 11.63
+VEG-0083, Cannellini Beans, VEGETABLE, 65, 40, 0.45, 20, 0.54, 1, 0.54
+VEG-0084, Christmas Lima Bean/Chestnut Lima, VEGETABLE, 92, 160, 3.10, 25, 3.88, 4, 4.03
+VEG-0085, Corona Beans, VEGETABLE, 52, 100, 4.15, 55, 6.43, 6, 6.85
+VEG-0086, Fava Beans/Broad Beans, VEGETABLE, 62, 40, 2.55, 25, 3.19, 3, 3.29
+VEG-0087, Flageolet Beans, VEGETABLE, 21, 20, 1.25, 5, 1.31, 1, 1.33
+VEG-0088, Garbanzo Beans/Chickpeas, VEGETABLE, 74, 70, 7.75, 30, 10.08, 10, 11.09
+VEG-0089, Great Northern Beans, VEGETABLE, 48, 70, 5.65, 35, 7.63, 8, 8.21
+VEG-0090, Kidney Beans, VEGETABLE, 69, 70, 1.55, 0, 1.55, 2, 1.57
+VEG-0091, Green Lentils, VEGETABLE, 46, 90, 8.85, 25, 11.06, 11, 12.29
+VEG-0092, Red Lentils, VEGETABLE, 78, 120, 0.50, 55, 0.78, 1, 0.78
+VEG-0093, Yellow Lentils, VEGETABLE, 61, 90, 7.30, 55, 11.32, 11, 12.60
+VEG-0094, Brown Lentils, VEGETABLE, 77, 50, 4.70, 35, 6.35, 6, 6.75
+VEG-0095, Lima Beans/Butter Beans, VEGETABLE, 39, 60, 9.20, 15, 10.58, 11, 11.70
+VEG-0096, Lupini Beans, VEGETABLE, 35, 60, 4.00, 35, 5.40, 5, 5.69
+VEG-0097, Marrow Beans, VEGETABLE, 73, 50, 9.65, 5, 10.13, 10, 11.16
+VEG-0098, Moth Beans, VEGETABLE, 61, 10, 8.30, 45, 12.04, 12, 13.48
+VEG-0099, Mung Beans, VEGETABLE, 63, 80, 3.75, 50, 5.63, 6, 5.94
+VEG-0100, Navy Beans, VEGETABLE, 11, 20, 5.35, 10, 5.89, 6, 6.23
+VEG-0101, Pigeon Pea, VEGETABLE, 91, 150, 1.25, 50, 1.88, 2, 1.91
+VEG-0102, Pink Beans, VEGETABLE, 19, 20, 3.20, 25, 4.00, 4, 4.16
+VEG-0103, Pinto Beans, VEGETABLE, 67, 30, 3.45, 25, 4.31, 4, 4.50
+VEG-0104, Red Beans/Small Red Beans, VEGETABLE, 16, 10, 1.95, 20, 2.34, 2, 2.39
+VEG-0105, Rice Beans, VEGETABLE, 90, 90, 3.25, 0, 3.25, 3, 3.36
+VEG-0106, Scarlet Runner Beans, VEGETABLE, 35, 50, 2.40, 30, 3.12, 3, 3.22
+VEG-0107, Soybean/Soya Bean, VEGETABLE, 13, 20, 2.40, 25, 3.00, 3, 3.09
+VEG-0108, Spanish Tolosana Beans, VEGETABLE, 42, 40, 5.90, 5, 6.20, 6, 6.58
+VEG-0109, Split Peas, VEGETABLE, 42, 70, 6.45, 10, 7.10, 7, 7.60
+VEG-0110, Tepary Beans, VEGETABLE, 2, 10, 0.10, 55, 0.16, 0, 0.16
+VEG-0111, Urad, VEGETABLE, 31, 10, 4.70, 20, 5.64, 6, 5.96
+MEA-0001, chicken, MEAT, 55, 25, 8.80, 10, 9.68, 10, 10.60
